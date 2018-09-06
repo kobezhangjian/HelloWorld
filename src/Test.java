@@ -2,7 +2,7 @@
 public class Test {
 	
 	public static void main(String[] args) {
-		out("master-master");
+		out("master-develop");
 	}
 	
 	public static void out(Object o) {
