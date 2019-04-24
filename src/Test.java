@@ -20,4 +20,8 @@ public class Test {
 	public void doSecond() {
 		out(9999);
 	}
+	
+	public void doThird() {
+		out(333);
+	}
 }
