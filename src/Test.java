@@ -22,6 +22,6 @@ public class Test {
 	}
 
     public void doThird() {
-        out(333);
+        out(33333333);
     }
 }
