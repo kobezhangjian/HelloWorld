@@ -12,4 +12,8 @@ public class Test {
 	public void tets() {
 		out(312312);
 	}
+
+	public void doSecond() {
+		out(9999);
+	}
 }
