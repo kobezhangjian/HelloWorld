@@ -12,4 +12,16 @@ public class Test {
 	public void tets() {
 		out(312312);
 	}
+
+	public void doFirst() {
+		out(1111);
+	}
+
+	public void doSecond() {
+		out(9999);
+	}
+
+    public void doThird() {
+        out(33333333);
+    }
 }
