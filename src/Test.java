@@ -13,6 +13,10 @@ public class Test {
 		out(312312);
 	}
 
+	public void doFirst() {
+		out(1111);
+	}
+
 	public void doSecond() {
 		out(9999);
 	}
