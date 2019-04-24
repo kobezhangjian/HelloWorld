@@ -9,7 +9,11 @@ public class Test {
 		System.out.println(o);
 	}
 	
-	public void tets() {
+	public void test() {
 		out(312312);
+	}
+
+	public void doFirst() {
+		out(1111);
 	}
 }
